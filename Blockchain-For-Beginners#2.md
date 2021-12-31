@@ -1,21 +1,21 @@
 **Öğreneceklerimiz**
 ----------------------------------------------------------------------
 
-Kriptografik hash fonksiyonları (Cryptographic Hash Functions)
+**Kriptografik hash fonksiyonları (Cryptographic Hash Functions)**
 
-Private Keys
+**Private Keys**
 
-Public Keys
+**Public Keys**
 
-İşlemler (Transactions)
+**İşlemler (Transactions)**
 
-İmzalar (Signatures)
+**İmzalar (Signatures)**
 
-Bloklar (Blocks)
+**Bloklar (Blocks)**
 
-Emek ispatı (Proof of Work)
+**Emek ispatı (Proof of Work)**
 
-Cryptographic Has Functions Nedir?
+**Cryptographic Has Functions Nedir?**
 ----------------------------------------------------------------------
 
 Hash, rastgele uzunluktaki bir girdiyi sabit uzunluktaki şifreli bir çıktıya dönüştüren matematiksel bir fonksiyondur. Bu nedenle, ilgili orijinal veri miktarına veya dosya boyutuna bakılmaksızın, benzersiz karma değeri her zaman aynı boyutta olacaktır. Girdinin herhangi bir kısmı değişirse çıktı da ona göre değişecek, random bir sayı alacaktır. Aşağıdaki görsel örnekte olduğu gibi
