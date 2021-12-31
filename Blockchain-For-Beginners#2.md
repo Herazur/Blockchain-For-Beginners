@@ -27,6 +27,12 @@ Hash, rastgele uzunluktaki bir girdiyi sabit uzunluktaki şifreli bir çıktıya
 
 Hash fonksiyonun bir başka özelliği ise girdi ile çıktı benzer olmamasıdır.
 
+Daha iyi anlamak için bu sitede https://guggero.github.io/blockchain-demo/#!/hash denemeler yapabilirsiniz.
+
+Private Keys
+----------------------------------------------------------------------
+
+
 
 
 
