@@ -40,6 +40,6 @@ Private keylerden yaratılır, dolayısıyla public key'e erişmek için private
 
 Transactions
 ----------------------------------------------------------------------
-
+![image](https://user-images.githubusercontent.com/68228757/147840974-3486ff35-a32e-4d7b-8c15-585203238ebc.png)
 
 
