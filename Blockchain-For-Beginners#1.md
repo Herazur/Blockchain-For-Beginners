@@ -11,6 +11,8 @@
 
 4)Musluklar(Faucet)
 
+----------------------------------------------------------------------
+
 https://metamask.io/ Öncelikle MetaMask hesabı kurmalısınız bu chrome'da uzantı şeklinde olacaktır.
 
 Sonrasında MetaMask'a giriş yapıp MetMask profil fotoğrafımızın üstüne tıklayarak Settings > Advanced > Show test networkları açalım
