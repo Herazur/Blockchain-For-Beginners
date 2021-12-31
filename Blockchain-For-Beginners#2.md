@@ -25,7 +25,6 @@ Hash, rastgele uzunluktaki bir girdiyi sabit uzunluktaki şifreli bir çıktıya
 
 İki farklı girdi aynı çıktı ile sonuçlanmamalıdır. Amacımız hash fonksiyonlarını çarpışmasız(collision) hale getirmek.
 
-Hash fonksiyonun bir başka özelliği ise girdi ile çıktı benzer olmamasıdır.
 
 
 
