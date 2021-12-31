@@ -34,6 +34,12 @@ Private Keys
 Etherium hesabımız için ana şifre olarak düşünebiliriz. Hesaba erişimi ve para göndermemizi sağlar. Bu da demektir ki kimseyle paylaşılmamalıdır.
 Private Keyler aslında düz bir metindir fakat encryption şifreleme yöntemi ile insanlar ve diğer bilgisayarlar tarafından okunmasını engellemek için şifreli bir hale dönüştürülür.
 
+Public Keys
+----------------------------------------------------------------------
+Private keylerden yaratılır, dolayısıyla public key'e erişmek için private keylere ihtiyacımız vardır. Public Keylerinizi başkalarıyla paylaşmanızda hiçbir sakınca yoktur.
+
+Transactions
+----------------------------------------------------------------------
 
 
 
