@@ -12,7 +12,7 @@
 
 https://metamask.io/ Öncelikle MetaMask hesabı kurmalısınız bu chrome'da uzantı şeklinde olacaktır.
 
-Sonrasında MetMask'a giriş yapıp MetMask profil fotoğrafımızın üstüne tıklayarak Settings > Advanced > Show test networkları açalım
+Sonrasında MetaMask'a giriş yapıp MetMask profil fotoğrafımızın üstüne tıklayarak Settings > Advanced > Show test networkları açalım
 
 Test geliştirme hesaplarından birine geçelim. (MetaMask logo ve MetaMask profil fotoğrafınızın arasında olacaktır)
 
