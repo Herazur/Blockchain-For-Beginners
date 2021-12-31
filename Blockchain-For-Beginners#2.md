@@ -12,4 +12,7 @@ Kriptografik hash fonksiyonları (Cryptographic Hash Functions)
 
 Bloklar (Blocks)
 
-Emek ispatı(Proof of Work)
+Emek ispatı (Proof of Work)
+
+Cryptographic Has Functions Nedir?
+
