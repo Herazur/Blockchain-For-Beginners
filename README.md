@@ -1,9 +1,13 @@
 # Blockchain-For-Beginners #1
 
 Öğreneceklerimiz
+
 1)Etherium hesabı nasıl kurulur
+
 2)Farklı hesaplar arası nasıl para gönderebiliriz
+
 3)Test ağları
+
 4)Musluklar(Faucet)
 
 https://metamask.io/ Öncelikle MetaMask hesabı kurmalısınız bu chrome'da uzantı şeklinde olacaktır.
