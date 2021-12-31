@@ -31,7 +31,8 @@ Daha iyi anlamak için bu sitede https://guggero.github.io/blockchain-demo/#!/ha
 
 Private Keys
 ----------------------------------------------------------------------
-
+Etherium hesabımız için ana şifre olarak düşünebiliriz. Hesaba erişimi ve para göndermemizi sağlar. Bu da demektir ki kimseyle paylaşılmamalıdır.
+Private Keyler aslında düz bir metindir fakat encryption şifreleme yöntemi ile insanlar ve diğer bilgisayarlar tarafından okunmasını engellemek için şifreli bir hale dönüştürülür.
 
 
 
