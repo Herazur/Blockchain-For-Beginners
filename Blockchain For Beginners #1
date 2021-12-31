@@ -4,7 +4,7 @@
 
 1)Etherium hesabı nasıl kurulur
 
-2)Farklı hesaplar arası nasıl para gönderebiliriz
+2)Farklı hesaplar arası nasıl etherium gönderebiliriz
 
 3)Test ağları
 
