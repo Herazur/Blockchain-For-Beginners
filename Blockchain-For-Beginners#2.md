@@ -25,7 +25,5 @@ Hash, rastgele uzunluktaki bir girdiyi sabit uzunluktaki şifreli bir çıktıya
 
 İki farklı girdi aynı çıktı ile sonuçlanmamalıdır. Amacımız hash fonksiyonlarını çarpışmasız(collision) hale getirmek.
 
-![hashCollision](https://user-images.githubusercontent.com/68228757/147840319-01747bce-68e8-44c3-9017-0e15ead3ce13.png)
-
 
 
