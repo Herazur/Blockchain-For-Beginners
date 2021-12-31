@@ -1,7 +1,6 @@
 # Blockchain-For-Beginners #1
 
-Öğreneceklerimiz
-----------------------------------------------------------------------
+**Öğreneceklerimiz**
 
 1)Etherium hesabı nasıl kurulur
 
