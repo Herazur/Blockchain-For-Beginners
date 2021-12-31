@@ -1,11 +1,11 @@
 **Öğreneceklerimiz**
 ----------------------------------------------------------------------
 
+Kriptografik hash fonksiyonları (Cryptographic Hash Functions)
+
 Private Keys
 
 Public Keys
-
-Kriptografik hash fonksiyonları (Cryptographic Hash Functions)
 
 İşlemler (Transactions)
 
