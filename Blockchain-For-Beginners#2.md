@@ -1,8 +1,15 @@
 Öğreneceklerimiz
 
 Private Keys
-Public Keys
-kriptografik hash işlemleri
-İşlemler
-imzalar
 
+Public Keys
+
+Kriptografik hash fonksiyonları (Cryptographic Hash Functions)
+
+İşlemler (Transactions)
+
+İmzalar (Signatures)
+
+Bloklar (Blocks)
+
+Emek ispatı(Proof of Work)
