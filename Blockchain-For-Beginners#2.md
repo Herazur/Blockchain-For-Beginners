@@ -27,26 +27,26 @@ Cryptographic Has Functions Nedir?
 
 *Hash fonksiyonun bir başka özelliği ise girdi ile çıktı benzer olmamasıdır.*
 
-*Daha iyi anlamak için bu sitede https://guggero.github.io/blockchain-demo/#!/hash denemeler yapabilirsiniz.
+*Daha iyi anlamak için bu sitede https://guggero.github.io/blockchain-demo/#!/hash denemeler yapabilirsiniz.*
 
 Private Keys
 ----------------------------------------------------------------------
 *Etherium hesabımız için ana şifre olarak düşünebiliriz. Hesaba erişimi ve para göndermemizi sağlar. Bu da demektir ki kimseyle paylaşılmamalıdır.
-Private Keyler aslında düz bir metindir fakat encryption şifreleme yöntemi ile insanlar ve diğer bilgisayarlar tarafından okunmasını engellemek için şifreli bir hale dönüştürülür.
+Private Keyler aslında düz bir metindir fakat encryption şifreleme yöntemi ile insanlar ve diğer bilgisayarlar tarafından okunmasını engellemek için şifreli bir hale dönüştürülür.*
 
 Public Keys
 ----------------------------------------------------------------------
-*Private keylerden yaratılır, dolayısıyla public key'e erişmek için private keylere ihtiyacımız vardır. Public Keylerinizi başkalarıyla paylaşmanızda hiçbir sakınca yoktur.
+*Private keylerden yaratılır, dolayısıyla public key'e erişmek için private keylere ihtiyacımız vardır. Public Keylerinizi başkalarıyla paylaşmanızda hiçbir sakınca yoktur.*
 
 Transactions
 ----------------------------------------------------------------------
 ![Transaction](https://user-images.githubusercontent.com/68228757/147841057-d2593ffb-fdd4-4cd1-a80e-2176b52d8067.png)
-*Bu işlemle ilgili tek sorun, bu işlemi yapan kişinin parayı gönderen doğru adres olduğuna güvenmek zorunda olmamız. Bu sorunu da dijital imzalar(signatures) ile çözüyoruz.
+*Bu işlemle ilgili tek sorun, bu işlemi yapan kişinin parayı gönderen doğru adres olduğuna güvenmek zorunda olmamız. Bu sorunu da dijital imzalar(signatures) ile çözüyoruz.*
 
 Signatures
 ----------------------------------------------------------------------
 *Dijital imzalar, blok zincirlerde temel bir yapı taşıdır; bunlar öncelikle işlemlerin gerçekliğini doğrulamak için kullanılır.
 ![image](https://user-images.githubusercontent.com/68228757/147846138-093d2b8c-e730-402b-a8f8-de0fa0a9e181.png)
 Public Key Şifrelenmesinin Görselleştirilmesi·
-Alice Bob'a 1 BTC göndermek istiyorsa, private keyini kullanarak 1 BTC giriş harcayan bir işlemi imzalamalı ve ağdaki düğümlere göndermelidir.
+Alice Bob'a 1 BTC göndermek istiyorsa, private keyini kullanarak 1 BTC giriş harcayan bir işlemi imzalamalı ve ağdaki düğümlere göndermelidir.*
 
