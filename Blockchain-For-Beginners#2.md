@@ -9,7 +9,7 @@
 
 **İşlemler (Transactions)**
 
-**İmzalar (Signatures)**
+**Dijital imza (Signatures)**
 
 **Bloklar (Blocks)**
 
@@ -41,5 +41,13 @@ Private keylerden yaratılır, dolayısıyla public key'e erişmek için private
 Transactions
 ----------------------------------------------------------------------
 ![Transaction](https://user-images.githubusercontent.com/68228757/147841057-d2593ffb-fdd4-4cd1-a80e-2176b52d8067.png)
+Bu işlemle ilgili tek sorun, bu işlemi yapan kişinin parayı gönderen doğru adres olduğuna güvenmek zorunda olmamız. Bu sorunu da dijital imzalar(signatures) ile çözüyoruz.
+
+Signatures
+----------------------------------------------------------------------
+Hesaptan parayı göndermeye çalışan hesabın gerçek private keyini ve işlemle ilgili tüm bilgileri içeren özel bir karmadır.
+.
+.
+.
 
 
