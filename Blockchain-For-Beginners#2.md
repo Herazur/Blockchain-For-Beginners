@@ -49,4 +49,7 @@ Signatures
 ![image](https://user-images.githubusercontent.com/68228757/147846138-093d2b8c-e730-402b-a8f8-de0fa0a9e181.png)
 Public Key Şifrelenmesinin Görselleştirilmesi·
 Alice Bob'a 1 BTC göndermek istiyorsa, private keyini kullanarak 1 BTC giriş harcayan bir işlemi imzalamalı ve ağdaki düğümlere göndermelidir.*
+İmzalama için kullanılan private anahtara imza anahtarı, public anahtara ise doğrulama anahtarı adı verilir.
+Dijital İmzanın Önemi
+--
 
