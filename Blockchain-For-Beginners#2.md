@@ -45,9 +45,5 @@ Bu işlemle ilgili tek sorun, bu işlemi yapan kişinin parayı gönderen doğru
 
 Signatures
 ----------------------------------------------------------------------
-Hesaptan parayı göndermeye çalışan hesabın gerçek private keyini ve işlemle ilgili tüm bilgileri içeren özel bir karmadır.
-.
-.
-.
 
 
