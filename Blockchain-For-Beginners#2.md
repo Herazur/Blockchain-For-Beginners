@@ -46,7 +46,7 @@ Transactions
 Signatures
 ----------------------------------------------------------------------
 *Dijital imzalar, blok zincirlerde temel bir yapı taşıdır; bunlar öncelikle işlemlerin gerçekliğini doğrulamak için kullanılır.
-![image](https://user-images.githubusercontent.com/68228757/147846138-093d2b8c-e730-402b-a8f8-de0fa0a9e181.png)
+![image](https://user-images.githubusercontent.com/68228757/147854388-f8f4a740-8d1f-4ca2-86ed-d36eb15df777.png)
 Public Key Şifrelenmesinin Görselleştirilmesi·
 Alice Bob'a 1 BTC göndermek istiyorsa, private keyini kullanarak 1 BTC giriş harcayan bir işlemi imzalamalı ve ağdaki düğümlere göndermelidir.*
 İmzalama için kullanılan private anahtara imza anahtarı, public anahtara ise doğrulama anahtarı adı verilir.
