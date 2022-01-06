@@ -46,7 +46,7 @@ Etheriumu sözleşmeden farklı bir etherium hesabına ether göndermek
 
 Öncelikle etherium alacağımız etherium hesabına geçip value 1 yapalım ve 1 etherium recieve edelim.
 
-![image](https://user-images.githubusercontent.com/68228757/148399921-2feb66f5-5b99-410f-b6b4-916241c401aa.png)
+![image](https://user-images.githubusercontent.com/68228757/148401917-ef7b5761-b93e-4132-a490-f69497f4ccfa.png)
 
 Sonrasında göndereceğimiz etherium hesabına geçiş yapıp adresini kopyalayalım.
 
