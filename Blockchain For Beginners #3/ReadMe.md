@@ -7,4 +7,4 @@ Bu sözleşmeye para göndermek için
 ![image](https://user-images.githubusercontent.com/68228757/148382393-c6b74ce1-9a0a-41e9-8b6c-ff386b7bb006.png)
 
 Bakarsanız miktarın düştüğünü, biraz gas çektiğini görebilirsiniz 
-![image](https://user-images.githubusercontent.com/68228757/148383121-f1332042-8b1d-413b-a8be-372e292c5ba2.png)
+![image](https://user-images.githubusercontent.com/68228757/148383211-f62235a8-f00d-421a-81ae-0d20f2708568.png)
