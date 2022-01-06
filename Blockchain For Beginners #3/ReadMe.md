@@ -56,4 +56,6 @@ Adresi Pay kısmına yapıştıralım ve **Pay** a basalım
 
 ![image](https://user-images.githubusercontent.com/68228757/148401077-4612765f-59d1-4a04-972e-901510eed88e.png)
 
+Gas ücreti ödediğimiz için tam bir rakam vermeyecektir fakat işlem başarılı.
+
 ![image](https://user-images.githubusercontent.com/68228757/148401779-b5428131-6483-4cd5-a9f2-f1b63b20fa0d.png)
