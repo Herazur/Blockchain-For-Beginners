@@ -45,8 +45,15 @@ Etheriumu sözleşmeden farklı bir etherium hesabına ether göndermek
 ![image](https://user-images.githubusercontent.com/68228757/148399768-0bf7b1ca-7c07-4dc9-ad3a-108b23bacf63.png)
 
 Öncelikle etherium alacağımız etherium hesabına geçip value 1 yapalım ve 1 etherium recieve edelim.
+
 ![image](https://user-images.githubusercontent.com/68228757/148399921-2feb66f5-5b99-410f-b6b4-916241c401aa.png)
 
 Sonrasında göndereceğimiz etherium hesabına geçiş yapıp adresini kopyalayalım.
+
 ![image](https://user-images.githubusercontent.com/68228757/148400366-9d517391-c4da-4207-af30-8e37ca24a585.png)
 
+Adresi Pay kısmına yapıştıralım ve **Pay** a basalım
+
+![image](https://user-images.githubusercontent.com/68228757/148401077-4612765f-59d1-4a04-972e-901510eed88e.png)
+
+![image](https://user-images.githubusercontent.com/68228757/148401779-b5428131-6483-4cd5-a9f2-f1b63b20fa0d.png)
