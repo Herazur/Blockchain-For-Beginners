@@ -15,6 +15,7 @@ Bakarsanız miktarın düştüğünü, biraz gas çektiğini görebilirsiniz
 Sözleşmenin bakiyesini fonksiyon ile öğrenme
 --
 ![image](https://user-images.githubusercontent.com/68228757/148386293-b21a40fc-c330-4a14-bd8a-a35e8f1e1ef1.png)
+
 Yeni Solidty versiyonda adresi manuel olarak eklemeniz gerekebilir.
 
 **Deploy** edip **getBalance** diyelim ve 0 bakiye olduğunu görelim.
