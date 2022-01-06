@@ -30,5 +30,7 @@ Sonrasında **Value** miktar ekleyip (ben 5 yazdım) **Recieve** e basalım yine
 Ether gönderen son kişinin adresini takip etmek
 --
 ![image](https://user-images.githubusercontent.com/68228757/148391811-0b4adbaa-ef68-4dcc-92ce-b3c7f81fee5a.png)
+
 1 ether recieve edelim ve lastSender a basıp ether gönderen son adresi görelim
+
 ![image](https://user-images.githubusercontent.com/68228757/148392015-6f142c74-606b-4274-acca-cf0866727e8b.png)
