@@ -33,4 +33,4 @@ Ether gönderen son kişinin adresini takip etmek
 
 1 ether recieve edelim ve lastSender a basıp ether gönderen son adresi görelim
 
-![image](https://user-images.githubusercontent.com/68228757/148392015-6f142c74-606b-4274-acca-cf0866727e8b.png)
+![image](https://user-images.githubusercontent.com/68228757/148392307-49b2ab8a-32a6-484c-bad4-880281eb4151.png)
