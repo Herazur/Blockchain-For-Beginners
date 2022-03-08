@@ -1,17 +1,17 @@
 **Öğreneceklerimiz**
 ----------------------------------------------------------------------
 
-Kriptografik hash fonksiyonları (Cryptographic Hash Functions)
+- Kriptografik hash fonksiyonları (Cryptographic Hash Functions)
 
-Private Keys
+- Private Keys
 
-Public Keys
+- Public Keys
 
-İşlemler (Transactions)
+- İşlemler (Transactions)
 
-Dijital imza (Signatures)
+- Dijital imza (Signatures)
 
-Bloklar (Blocks)
+- Bloklar (Blocks)
 
 Cryptographic Has Functions Nedir?
 ----------------------------------------------------------------------
