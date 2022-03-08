@@ -2,13 +2,13 @@
 
 **Öğreneceklerimiz**
 
-Etherium hesabı nasıl kurulur
+- Etherium hesabı nasıl kurulur
 
-Farklı hesaplar arası nasıl etherium gönderebiliriz
+- Farklı hesaplar arası nasıl etherium gönderebiliriz
 
-Test ağları
+- Test ağları
 
-Musluklar(Faucet)
+- Musluklar(Faucet)
 
 ----------------------------------------------------------------------
 
