@@ -1,4 +1,4 @@
-# Blockchain-For-Beginners #1
+# Yeni Başlayanlar İçin Blockchain #1
 
 **Öğreneceklerimiz**
 
